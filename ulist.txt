@@ -1,0 +1,1 @@
+insert the list of camera URLs to record data from

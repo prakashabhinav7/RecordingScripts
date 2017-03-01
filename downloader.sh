@@ -1,3 +1,6 @@
+#Author: Abhinav Prakash
+#Date Created: 3/1/2017
+
 #!/usr/bin/env bash
 
 while true
